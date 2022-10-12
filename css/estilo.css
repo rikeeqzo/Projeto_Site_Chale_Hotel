@@ -14,3 +14,17 @@ body {
 #container {
     background: #ede9cc;
 }
+
+#topo {
+    background-color: #dbcd87;
+    height: 15.4em;
+    min-height: 250px;
+}
+
+#area-logo {
+    background: red;
+}
+
+#area-menu {
+    background: blue;
+}
