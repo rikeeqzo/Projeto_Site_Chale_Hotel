@@ -39,3 +39,12 @@ body {
     width: 450px;
     height: 250px;
 }
+
+#area-menu {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: url(../imagens/topo-imagem-lateral.png) no-repeat;
+    width: 450px;
+    height: 250px;
+}
