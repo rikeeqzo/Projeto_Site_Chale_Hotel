@@ -70,3 +70,15 @@ body {
     font-size: 0.7em;
     color: #8b8448;
 }
+
+#menu-locais .locais {
+    float: left;
+}
+
+#menu-locais {
+    float: left;
+}
+
+a.reserva {
+    text-transform: uppercase;
+}
