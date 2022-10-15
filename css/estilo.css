@@ -65,4 +65,8 @@ body {
 #menu-locais {
     border-bottom: 1px solid #b5ab56;
     border-top: 1px solid #b5ab56;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 0.7em;
+    color: #8b8448;
 }
