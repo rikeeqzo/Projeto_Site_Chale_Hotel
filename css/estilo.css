@@ -81,4 +81,8 @@ body {
 
 a.reserva {
     text-transform: uppercase;
+    background: #a29750;
+    color: #fff5b0;
+    padding: 5px 10px;
+    float: right;
 }
