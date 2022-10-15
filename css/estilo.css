@@ -55,3 +55,7 @@ body {
     height: 250px;
     z-index: 2;
 }
+
+#conteudo-menu {
+    margin-left: 90px;
+}
