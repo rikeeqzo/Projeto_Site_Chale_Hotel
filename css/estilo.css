@@ -43,6 +43,7 @@ body {
     background: url(../imagens/logo.png) no-repeat;
     width: 151px;
     height: 66px;
+    text-indent: -9000px;
 }
 
 #area-menu {
