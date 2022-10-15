@@ -73,6 +73,11 @@ body {
 
 #menu-locais .locais {
     float: left;
+    line-height: 2.1em;
+}
+
+a {
+    text-decoration: none;
 }
 
 #menu-locais {
