@@ -91,3 +91,8 @@ a.reserva {
     padding: 5px 10px;
     float: right;
 }
+
+/* Barra de navegação vertical */
+#menu {
+    margin-top: 15px;
+}
