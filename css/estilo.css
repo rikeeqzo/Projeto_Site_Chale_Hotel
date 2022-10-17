@@ -32,7 +32,7 @@ body {
     height: 250px;
     top: 0;
     left: 0;
-    z-index: 2;
+    z-index: 1;
 }
 
 .logo a {
@@ -80,10 +80,6 @@ a {
     text-decoration: none;
 }
 
-#menu-locais {
-    float: left;
-}
-
 a.reserva {
     text-transform: uppercase;
     background: #a29750;
@@ -111,7 +107,6 @@ ul#navegacao a {
     padding: 5px;
     color: #6e672c;
     line-height: 30px;
-    display: block;
 }
 
 
@@ -176,4 +171,21 @@ p {
 #beneficios li a img {
     float: left;
     margin-right: 8px;
+}
+
+#beneficios li a p {
+    color: #000;
+    font-size: 0.8em;
+}
+
+#beneficios li a h3 {
+    font-size: 1em;
+    color: #615b2d;
+    padding: 5px 0;
+    background: url(../imagens/ornamento.png) no-repeat center right;
+}
+
+#beneficios li:hover {
+    background: #f6f3d6;
+    cursor: pointer;
 }
