@@ -148,4 +148,32 @@ ul#navegacao a:hover{
 
 #rodape {
     clear: both;
+    padding: 16px;
+    background: #fff url(../imagens/bg-rodape.png) repeat-x top;
+    color: #7d7640;
+}
+
+/* Formatações de textos */
+h2 {
+    color: #7d7640;
+    font-size: 1.1em;
+    padding: 5px 0px;
+}
+
+p {
+    font-size: 1em;
+    margin-bottom: 10px;
+}
+
+/* Formatações da area lateral */
+
+#beneficios li {
+    padding: 8px;
+    border-bottom: 1px solid #f3efcb;
+    height: 6em;
+}
+
+#beneficios li a img {
+    float: left;
+    margin-right: 8px;
 }
