@@ -12,7 +12,7 @@ body {
 }
 
 #container {
-    background: #ede9cc;
+    background: #ede9cc url(../imagens/bg-container.png) top center repeat-y;
     margin: 0 auto;
     min-width: 740px;
     max-width: 1180px;
@@ -140,5 +140,8 @@ ul#navegacao a:hover{
 .conteudo {
     margin: 0 auto;
     width: 90%;
-    background: red;
+}
+
+#rodape {
+    clear: both;
 }
