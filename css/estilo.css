@@ -14,7 +14,7 @@ body {
 #container {
     background: #ede9cc url(../imagens/bg-container.png) top center repeat-y;
     margin: 0 auto;
-    min-width: 740px;
+    min-width: 840px;
     max-width: 1180px;
 }
 
