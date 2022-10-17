@@ -128,13 +128,17 @@ ul#navegacao a:hover{
 /*área de conteúdos */
 
 #area-principal {
-    background: red;
     float: left;
     width: 50%;
 }
 
 #area-lateral {
-    background: blue;
     float: right;
     width: 50%;
+}
+
+.conteudo {
+    margin: 0 auto;
+    width: 90%;
+    background: red;
 }
