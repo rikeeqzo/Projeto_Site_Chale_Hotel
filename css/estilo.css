@@ -97,6 +97,10 @@ a.reserva {
     margin-top: 15px;
 }
 
+ul#navegacao {
+    float: left;
+}
+
 .depoimento {
     width: 226px;
     height: 164px;
